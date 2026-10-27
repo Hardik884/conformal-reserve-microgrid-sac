@@ -1,0 +1,6 @@
+Building_2 fold 0 {'k': 0, 'n_fit': 3607, 'n_cal': 673, 'epochs': 16, 'val_pinball': 0.12460433691740036, 'qhat_h1': -0.04612851142883301, 'qhat_mean': -0.017212381586432457}
+Building_2 fold 1 {'k': 1, 'n_fit': 3560, 'n_cal': 673, 'epochs': 27, 'val_pinball': 0.1135576143860817, 'qhat_h1': 0.003884527599439025, 'qhat_mean': 0.09198328107595444}
+Building_2 fold 2 {'k': 2, 'n_fit': 3560, 'n_cal': 673, 'epochs': 22, 'val_pinball': 0.11418740451335907, 'qhat_h1': -0.07537832856178284, 'qhat_mean': -0.03883865103125572}
+Building_2 fold 3 {'k': 3, 'n_fit': 3607, 'n_cal': 673, 'epochs': 17, 'val_pinball': 0.17970019578933716, 'qhat_h1': 0.18166989088058472, 'qhat_mean': 0.313602089881897}
+Building_2 final {'n_fit': 5785, 'n_cal': 673, 'n_test': 2184, 'epochs': 22, 'val_pinball': 0.11600741744041443}
+done in 53s
