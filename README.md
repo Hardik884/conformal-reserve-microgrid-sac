@@ -1,7 +1,7 @@
 # Conformal reserve control for residential batteries
 
 Code, data and result files for the paper **"Conformal Quantile Regression for Uncertainty-Aware Soft Actor-Critic Control in Residential Microgrids"**
-(Hardik Lohan, Ekaansh Jain, Badrinath N., Vellore Institute of Technology).
+(Hardik Lohan and Ekaansh Jain, Vellore Institute of Technology).
 
 **What is here:** a conformal reserve layer that keeps enough energy in a home battery to avoid capacity-limit violations, a quantile CNN-LSTM forecaster calibrated with CQR and adaptive conformal inference (ACI), and Soft Actor-Critic agents, tested on three homes from the CityLearn 2022 dataset.
 
